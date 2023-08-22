@@ -1,2 +1,4 @@
 # TrekSter
-Dynamic Trek review and rating website.
+*Dynamic Trek review and rating website.*
+
+
