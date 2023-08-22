@@ -43,18 +43,18 @@ Developed a deeper understanding of user authentication, database management, an
 
 ## Tech Stack
 
-JavaScript
-Node.js
-Express.js
-MongoDB
-BootStrap
-Mongoose
-CSS
-EJS
-JOI Library
-Passport.js (Authorization and Authentication)
-MapBox API (geocoding and maps)
-Cloudinary API (for images)
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* BootStrap
+* Mongoose
+* CSS
+* EJS
+* JOI Library (Data Validation)
+* Passport.js (Authorization and Authentication)
+* MapBox API (geocoding and maps)
+* Cloudinary API (for images)
 
 
 
