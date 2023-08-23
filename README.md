@@ -3,7 +3,7 @@
 
 ## Description
 
-Developed a dynamic Trek review and rating website with CRUD functionality. Users can explore, review, and add new Treks and serenic locations, enhancing their outdoor adventure experiences.
+Developed a dynamic Trek review and rating website with CRUD functionality. Users can explore, review, and add new Treks and serene locations, enhancing their outdoor adventure experiences.
 Utilized HTML, CSS, JavaScript for the user interface, and Node.js and Express.js for building the server-side API.
 
 ## Implemented Core Features
