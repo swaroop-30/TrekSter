@@ -1,5 +1,5 @@
 # TrekSter
-*Dynamic Trek review and rating website.*
+*Trek review and rating website.*
 
 ## Description
 
