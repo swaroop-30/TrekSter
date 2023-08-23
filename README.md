@@ -8,9 +8,9 @@ Utilized HTML, CSS, JavaScript for the user interface, and Node.js and Express.j
 
 ## Implemented Core Features
 
-Created a user-friendly interface for users to browse campgrounds, view details, and read reviews.
-Enabled user registration and authentication for secure access to features like adding reviews and campgrounds.
-Designed database schema and utilized MongoDB to store campground data, user profiles, and reviews.
+Created a user-friendly interface for users to browse Treks, view details, and read reviews.
+Enabled user registration and authentication for secure access to features like adding reviews and new Treks.
+Designed database schema and utilized MongoDB to store Trek data, user profiles, and reviews.
 Leveraged powerful validation capabilities using JOI library to ensure the accuracy and consistency of user inputs and data interactions.
 
 ![Screenshot (596)](https://github.com/swaroop-30/TrekSter/assets/85497978/320dd152-e3bb-4ac9-a011-fece29e828b3)
@@ -19,20 +19,20 @@ Leveraged powerful validation capabilities using JOI library to ensure the accur
 
 Developed responsive front-end using HTML, CSS, and JavaScript to ensure seamless usability across devices.
 Utilized Bootstrap framework for consistent styling and improved user experience.
-Integrated map functionality to display campground locations using Mapbox API.
+Integrated map functionality to display Trek locations using Mapbox API.
 
 ## Full-Stack Development
 
-Used Node.js and Express.js to create a RESTful API for managing campgrounds, reviews, and user accounts.
+Used Node.js and Express.js to create a RESTful API for managing Trek spots, reviews, and user accounts.
 Employed Express middleware for handling user authentication and authorization.
-Implemented CRUD (Create, Read, Update, Delete) operations for campgrounds and reviews.
+Implemented CRUD (Create, Read, Update, Delete) operations for Trek spots and reviews.
 Utilized Mongoose library to model data, validate inputs, and establish relationships between data entities.
 
 
 ## User Authentication and Authorization
 
 Integrated Passport.js for user authentication, allowing users to sign up, log in, and manage their profiles.
-Implemented authorization to ensure users can only edit or delete their own campgrounds and reviews.
+Implemented authorization to ensure users can only edit or delete their own Treks and reviews.
 
 ![Screenshot (597)](https://github.com/swaroop-30/TrekSter/assets/85497978/8347087b-bfdf-45d0-8c27-43ed929d22f6)
 
