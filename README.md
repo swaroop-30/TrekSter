@@ -3,7 +3,7 @@
 
 ## Description
 
-Developed a dynamic Trek review and rating website inspired by the YelpCamp project. Users can explore, review, and add new campgrounds, enhancing their outdoor adventure experiences.
+Developed a dynamic Trek review and rating website with CRUD functionality. Users can explore, review, and add new Treks and serenic locations, enhancing their outdoor adventure experiences.
 Utilized HTML, CSS, JavaScript for the user interface, and Node.js and Express.js for building the server-side API.
 
 ## Implemented Core Features
@@ -11,6 +11,7 @@ Utilized HTML, CSS, JavaScript for the user interface, and Node.js and Express.j
 Created a user-friendly interface for users to browse campgrounds, view details, and read reviews.
 Enabled user registration and authentication for secure access to features like adding reviews and campgrounds.
 Designed database schema and utilized MongoDB to store campground data, user profiles, and reviews.
+Leveraged powerful validation capabilities using JOI library to ensure the accuracy and consistency of user inputs and data interactions.
 
 ![Screenshot (596)](https://github.com/swaroop-30/TrekSter/assets/85497978/320dd152-e3bb-4ac9-a011-fece29e828b3)
 
@@ -26,6 +27,7 @@ Used Node.js and Express.js to create a RESTful API for managing campgrounds, re
 Employed Express middleware for handling user authentication and authorization.
 Implemented CRUD (Create, Read, Update, Delete) operations for campgrounds and reviews.
 Utilized Mongoose library to model data, validate inputs, and establish relationships between data entities.
+
 
 ## User Authentication and Authorization
 
