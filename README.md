@@ -19,7 +19,7 @@ Leveraged powerful validation capabilities using JOI library to ensure the accur
 
 Developed responsive front-end using HTML, CSS, and JavaScript to ensure seamless usability across devices.
 Utilized Bootstrap framework for consistent styling and improved user experience.
-Integrated map functionality to display Trek locations using Mapbox API.
+Employed responsive design principles, leveraging Bootstrap framework, to create a seamless user experience across devices. Integrated Mapbox API to display interactive maps for Trek locations, enhancing user engagement.
 
 ## Full-Stack Development
 
@@ -27,7 +27,7 @@ Used Node.js and Express.js to create a RESTful API for managing Trek spots, rev
 Employed Express middleware for handling user authentication and authorization.
 Implemented CRUD (Create, Read, Update, Delete) operations for Trek spots and reviews.
 Utilized Mongoose library to model data, validate inputs, and establish relationships between data entities.
-
+Implemented robust input validation and sanitization routines to prevent data inconsistencies and security vulnerabilities.
 
 ## User Authentication and Authorization
 
